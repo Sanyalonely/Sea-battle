@@ -1,0 +1,36 @@
+﻿  main2.cpp
+D:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: class "std::runtime_error", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "sf::Exception"
+  (компиляция исходного файла "main2.cpp")
+      D:\Visual studio\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+       см. объявление "std::runtime_error"
+      D:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+       см. объявление "sf::Exception"
+  
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(50,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(50,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(166,41): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(167,41): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(174,57): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(176,56): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(178,56): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(180,56): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(273,44): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(274,44): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(275,44): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(276,44): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(472,41): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(473,36): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(516,42): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(518,45): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(521,36): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(649,45): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(650,45): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(651,45): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(652,45): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(653,45): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(655,42): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(657,44): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(659,43): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(663,35): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+D:\Visual studio projects\sea ​​battle\sea ​​battle\main2.cpp(667,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sea ​​battle.vcxproj -> D:\Visual studio projects\sea ​​battle\x64\Debug\sea ​​battle.exe
